@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="center">My name is Mohamed Sayed <br>and I'm a Java Developer</h2>
+<h2 align="center">My name is Mohamed Sayed <br>and I'm a Software Developer | Java Developer</h2>
 
 ###
 
